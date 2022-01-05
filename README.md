@@ -7,3 +7,9 @@ A lot of Lecture are already submmited
 ## GIT & GITHUB trainning
 This is the famous and one of the best trainning course of DEVOPS
 
+## Get comparison
+   Adding Git comparison lecture
+
+## GITHub content
+Comparison with repo
+
