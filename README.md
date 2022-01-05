@@ -13,3 +13,6 @@ This is the famous and one of the best trainning course of DEVOPS
 ## GITHub content
 Comparison with repo
 
+## Contribution
+Fork the repo and raise pull request for review
+
