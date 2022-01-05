@@ -15,4 +15,5 @@ Comparison with repo
 
 ## Contribution
 Fork the repo and raise pull request for review
+## adding Git rebase lecture in Git advance part
 
